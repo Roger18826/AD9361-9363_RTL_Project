@@ -1,0 +1,17 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/prj/ad9361_rx_tx_top.gen/sources_1/ip/clk_wiz_0_4/clk_wiz_0.v,1731390514,verilog,,C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_lu.v,,clk_wiz_0,,,../../../../ad9361_rx_tx_top.gen/sources_1/ip/clk_wiz_0_4,,,,,
+C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/prj/ad9361_rx_tx_top.gen/sources_1/ip/clk_wiz_0_4/clk_wiz_0_clk_wiz.v,1731390514,verilog,,C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/prj/ad9361_rx_tx_top.gen/sources_1/ip/clk_wiz_0_4/clk_wiz_0.v,,clk_wiz_0_clk_wiz,,,../../../../ad9361_rx_tx_top.gen/sources_1/ip/clk_wiz_0_4,,,,,
+,,,,C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/tb_ad9361_work.v,,ila_0,,,,,,,,
+C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/prj/ad9361_rx_tx_top.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_dev_if .v,1731393792,verilog,,C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_init.v,,ad9361_dev_if,,,../../../../ad9361_rx_tx_top.gen/sources_1/ip/clk_wiz_0_4,,,,,
+C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_init.v,1731399824,verilog,,C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_spi.v,,ad9361_init,,,../../../../ad9361_rx_tx_top.gen/sources_1/ip/clk_wiz_0_4,,,,,
+C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_lu.v,1731399808,verilog,,C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/prj/ad9361_rx_tx_top.gen/sources_1/ip/ila_0_11/sim/ila_0.v,C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/zynq_bfm_defines.v;C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/axi_bfm_defines.v;C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/axi_bfm_s_defines.v,ad9361_lu,,,../../../../ad9361_rx_tx_top.gen/sources_1/ip/clk_wiz_0_4,,,,,
+C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_spi.v,1731377002,verilog,,C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_test_top.v,,ad9361_spi,,,../../../../ad9361_rx_tx_top.gen/sources_1/ip/clk_wiz_0_4,,,,,
+C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_test_top.v,1731401582,verilog,,C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/prj/ad9361_rx_tx_top.gen/sources_1/ip/clk_wiz_0_4/clk_wiz_0_clk_wiz.v,,ad9361_test_top,,,../../../../ad9361_rx_tx_top.gen/sources_1/ip/clk_wiz_0_4,,,,,
+C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/axi_bfm_defines.v,1731368058,verilog,,,,,,,,,,,,
+C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/axi_bfm_s_defines.v,1731368058,verilog,,,,,,,,,,,,
+C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/tb_ad9361_work.v,1731400589,verilog,,,,tb_ad9361_work,,,../../../../ad9361_rx_tx_top.gen/sources_1/ip/clk_wiz_0_4,,,,,
+C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/zynq_bfm_defines.v,1731368058,verilog,,,,,,,,,,,,

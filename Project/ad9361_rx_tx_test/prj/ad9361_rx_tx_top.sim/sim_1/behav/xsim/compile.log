@@ -1,0 +1,21 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_dev_if .v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ad9361_dev_if
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_init.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ad9361_init
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_spi.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ad9361_spi
+INFO: [VRFC 10-2458] undeclared symbol wr_or_rd, assumed default net type wire [C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_spi.v:24]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_test_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ad9361_test_top
+INFO: [VRFC 10-2458] undeclared symbol dac_r1_mode, assumed default net type wire [C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_test_top.v:105]
+INFO: [VRFC 10-2458] undeclared symbol adc_r1_mode, assumed default net type wire [C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_test_top.v:106]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/prj/ad9361_rx_tx_top.gen/sources_1/ip/clk_wiz_0_4/clk_wiz_0_clk_wiz.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_wiz_0_clk_wiz
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/prj/ad9361_rx_tx_top.gen/sources_1/ip/clk_wiz_0_4/clk_wiz_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_wiz_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_lu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ad9361_lu
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/prj/ad9361_rx_tx_top.gen/sources_1/ip/ila_0_11/sim/ila_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ila_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/tb_ad9361_work.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_ad9361_work

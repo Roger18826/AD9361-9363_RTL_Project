@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sun Dec  1 14:45:13 2024
+# Process ID: 17512
+# Current directory: C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/prj/ad9361_rx_tx_top.runs/impl_1
+# Command line: vivado.exe -log ad9361_test_top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source ad9361_test_top.tcl -notrace
+# Log file: C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/prj/ad9361_rx_tx_top.runs/impl_1/ad9361_test_top.vdi
+# Journal file: C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/prj/ad9361_rx_tx_top.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source ad9361_test_top.tcl -notrace

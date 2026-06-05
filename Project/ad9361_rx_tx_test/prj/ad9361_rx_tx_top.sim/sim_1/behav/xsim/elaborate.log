@@ -1,0 +1,79 @@
+Vivado Simulator 2020.2
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: D:/Vivado/Vivado/2020.2/bin/unwrapped/win64.o/xelab.exe -wto 657fe2c083dd488f890cfefa8acbce39 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot ad9361_test_top_behav xil_defaultlib.ad9361_test_top xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4100] "C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/prj/ad9361_rx_tx_top.gen/sources_1/ip/clk_wiz_0_4/clk_wiz_0.v" Line 69. Module clk_wiz_0 has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/prj/ad9361_rx_tx_top.gen/sources_1/ip/clk_wiz_0_4/clk_wiz_0_clk_wiz.v" Line 69. Module clk_wiz_0_clk_wiz has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/IBUF.v" Line 29. Module IBUF has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/MMCME2_ADV.v" Line 123. Module MMCME2_ADV(CLKFBOUT_MULT_F=25.0,CLKIN1_PERIOD=25.0,CLKOUT0_DIVIDE_F=10.0,CLKOUT1_DIVIDE=5) has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/BUFG.v" Line 27. Module BUFG has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/BUFG.v" Line 27. Module BUFG has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/BUFG.v" Line 27. Module BUFG has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/IBUFDS.v" Line 32. Module IBUFDS(DIFF_TERM="TRUE") has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/BUFG.v" Line 27. Module BUFG has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/IBUFDS.v" Line 32. Module IBUFDS(DIFF_TERM="TRUE") has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/IDDR.v" Line 33. Module IDDR(DDR_CLK_EDGE="SAME_EDGE_PIPELINED") has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/IBUFDS.v" Line 32. Module IBUFDS has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/IDDR.v" Line 33. Module IDDR(DDR_CLK_EDGE="SAME_EDGE_PIPELINED") has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/IBUFDS.v" Line 32. Module IBUFDS has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/IDDR.v" Line 33. Module IDDR(DDR_CLK_EDGE="SAME_EDGE_PIPELINED") has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/IBUFDS.v" Line 32. Module IBUFDS has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/IDDR.v" Line 33. Module IDDR(DDR_CLK_EDGE="SAME_EDGE_PIPELINED") has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/IBUFDS.v" Line 32. Module IBUFDS has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/IDDR.v" Line 33. Module IDDR(DDR_CLK_EDGE="SAME_EDGE_PIPELINED") has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/IBUFDS.v" Line 32. Module IBUFDS has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/IDDR.v" Line 33. Module IDDR(DDR_CLK_EDGE="SAME_EDGE_PIPELINED") has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/IBUFDS.v" Line 32. Module IBUFDS has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/IDDR.v" Line 33. Module IDDR(DDR_CLK_EDGE="SAME_EDGE_PIPELINED") has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/OBUFDS.v" Line 29. Module OBUFDS has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/ODDR.v" Line 34. Module ODDR(DDR_CLK_EDGE="SAME_EDGE") has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/OBUFDS.v" Line 29. Module OBUFDS has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/ODDR.v" Line 34. Module ODDR(DDR_CLK_EDGE="SAME_EDGE") has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/OBUFDS.v" Line 29. Module OBUFDS has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/ODDR.v" Line 34. Module ODDR(DDR_CLK_EDGE="SAME_EDGE") has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/OBUFDS.v" Line 29. Module OBUFDS has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/ODDR.v" Line 34. Module ODDR(DDR_CLK_EDGE="SAME_EDGE") has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/OBUFDS.v" Line 29. Module OBUFDS has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/ODDR.v" Line 34. Module ODDR(DDR_CLK_EDGE="SAME_EDGE") has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/OBUFDS.v" Line 29. Module OBUFDS has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/ODDR.v" Line 34. Module ODDR(DDR_CLK_EDGE="SAME_EDGE") has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/OBUFDS.v" Line 29. Module OBUFDS has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/ODDR.v" Line 34. Module ODDR(DDR_CLK_EDGE="SAME_EDGE") has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/OBUFDS.v" Line 29. Module OBUFDS has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/ODDR.v" Line 34. Module ODDR(DDR_CLK_EDGE="SAME_EDGE") has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_lu.v" Line 6. Module ad9361_lu has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/prj/ad9361_rx_tx_top.gen/sources_1/ip/ila_0_11/sim/ila_0.v" Line 49. Module ila_0 has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/prj/ad9361_rx_tx_top.gen/sources_1/ip/clk_wiz_0_4/clk_wiz_0.v" Line 69. Module clk_wiz_0 has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/prj/ad9361_rx_tx_top.gen/sources_1/ip/clk_wiz_0_4/clk_wiz_0_clk_wiz.v" Line 69. Module clk_wiz_0_clk_wiz has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/IBUF.v" Line 29. Module IBUF has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/MMCME2_ADV.v" Line 123. Module MMCME2_ADV(CLKFBOUT_MULT_F=25.0,CLKIN1_PERIOD=25.0,CLKOUT0_DIVIDE_F=10.0,CLKOUT1_DIVIDE=5) has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/BUFG.v" Line 27. Module BUFG has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/BUFG.v" Line 27. Module BUFG has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/BUFG.v" Line 27. Module BUFG has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/IBUFDS.v" Line 32. Module IBUFDS(DIFF_TERM="TRUE") has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/ci/prod/2020.2/rdi_builds/continuous/2020_11_18_3064766/data/verilog/src/unisims/BUFG.v" Line 27. Module BUFG has a timescale but at least one module in design doesn't have timescale.
+INFO: [Common 17-14] Message 'XSIM 43-4100' appears 50 times and further instances of the messages will be disabled. Use the Tcl command set_msg_config to change the current settings.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module unisims_ver.IBUF
+Compiling module unisims_ver.MMCME2_ADV(CLKFBOUT_MULT_F=25.0,...
+Compiling module unisims_ver.BUFG
+Compiling module xil_defaultlib.clk_wiz_0_clk_wiz
+Compiling module xil_defaultlib.clk_wiz_0
+Compiling module unisims_ver.IBUFDS(DIFF_TERM="TRUE")
+Compiling module unisims_ver.IDDR(DDR_CLK_EDGE="SAME_EDGE_PIP...
+Compiling module unisims_ver.IBUFDS
+Compiling module unisims_ver.OBUFDS
+Compiling module unisims_ver.ODDR(DDR_CLK_EDGE="SAME_EDGE")
+Compiling module xil_defaultlib.ad9361_dev_if_default
+Compiling module xil_defaultlib.ad9361_spi
+Compiling module xil_defaultlib.ad9361_lu
+Compiling module xil_defaultlib.ad9361_init
+Compiling module xil_defaultlib.ila_0
+Compiling module xil_defaultlib.ad9361_test_top
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot ad9361_test_top_behav

@@ -1,0 +1,17 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../ad9361_rx_tx_top.gen/sources_1/ip/clk_wiz_0_4" \
+"../../../../../rtl/ad9361_dev_if .v" \
+"../../../../../rtl/ad9361_init.v" \
+"../../../../../rtl/ad9361_spi.v" \
+"../../../../../rtl/ad9361_test_top.v" \
+"../../../../ad9361_rx_tx_top.gen/sources_1/ip/clk_wiz_0_4/clk_wiz_0_clk_wiz.v" \
+"../../../../ad9361_rx_tx_top.gen/sources_1/ip/clk_wiz_0_4/clk_wiz_0.v" \
+"../../../../../rtl/ad9361_lu.v" \
+"../../../../ad9361_rx_tx_top.gen/sources_1/ip/ila_0_11/sim/ila_0.v" \
+"../../../../../rtl/tb_ad9361_work.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

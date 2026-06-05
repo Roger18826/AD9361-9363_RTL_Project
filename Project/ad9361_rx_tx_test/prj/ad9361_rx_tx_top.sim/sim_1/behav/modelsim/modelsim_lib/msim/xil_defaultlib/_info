@@ -1,0 +1,288 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/prj/ad9361_rx_tx_top.sim/sim_1/behav/modelsim
+T_opt
+!s110 1731400778
+V_k4lhQB5OalHnb0aVaDb]2
+04 15 4 work ad9361_test_top fast 0
+04 4 4 work glbl fast 0
+=1-40b0760a5b94-67331449-26a-5478
+o-quiet -auto_acc_if_foreign -work xil_defaultlib -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+vad9361_dev_if
+!s10a 1731393792
+Z2 !s110 1731396339
+!i10b 1
+!s100 j[l8z;_WCWMl_7z8YCg222
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IMzE6C>j`L]imdBGfV:NKU1
+R0
+w1731393792
+8../../../../../rtl/ad9361_dev_if .v
+F../../../../../rtl/ad9361_dev_if .v
+!i122 2
+L0 1 320
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z6 !s108 1731396339.000000
+Z7 !s107 C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_lut.v|../../../../../rtl/tb_ad9361_work.v|../../../../ad9361_rx_tx_top.gen/sources_1/ip/clk_wiz_0_4/clk_wiz_0.v|../../../../ad9361_rx_tx_top.gen/sources_1/ip/clk_wiz_0_4/clk_wiz_0_clk_wiz.v|../../../../../rtl/ad9361_test_top.v|../../../../../rtl/ad9361_spi.v|../../../../../rtl/ad9361_init.v|../../../../../rtl/ad9361_lut.v|../../../../../rtl/ad9361_dev_if .v|
+Z8 !s90 -incr|-work|xil_defaultlib|+incdir+../../../../ad9361_rx_tx_top.gen/sources_1/ip/clk_wiz_0_4|../../../../../rtl/ad9361_dev_if .v|../../../../../rtl/ad9361_lut.v|../../../../../rtl/ad9361_init.v|../../../../../rtl/ad9361_spi.v|../../../../../rtl/ad9361_test_top.v|../../../../ad9361_rx_tx_top.gen/sources_1/ip/clk_wiz_0_4/clk_wiz_0_clk_wiz.v|../../../../ad9361_rx_tx_top.gen/sources_1/ip/clk_wiz_0_4/clk_wiz_0.v|../../../../../rtl/tb_ad9361_work.v|
+!i113 0
+Z9 o-work xil_defaultlib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 !s92 -work xil_defaultlib +incdir+../../../../ad9361_rx_tx_top.gen/sources_1/ip/clk_wiz_0_4 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vad9361_init
+Z11 !s110 1731400768
+!i10b 1
+!s100 IUiSKa<4O4gKE4kKjYiL90
+R3
+I_KoU<3jiMfZ92o<5L6zWl0
+R0
+w1731399824
+8../../../../../rtl/ad9361_init.v
+F../../../../../rtl/ad9361_init.v
+!i122 3
+L0 1 209
+R4
+R5
+r1
+!s85 0
+31
+Z12 !s108 1731400767.000000
+Z13 !s107 ..\..\..\..\..\rtl\axi_bfm_s_defines.v|..\..\..\..\..\rtl\axi_bfm_defines.v|..\..\..\..\..\rtl\zynq_bfm_defines.v|../../../../../rtl/tb_ad9361_work.v|../../../../../rtl/ad9361_lu.v|../../../../ad9361_rx_tx_top.gen/sources_1/ip/clk_wiz_0_4/clk_wiz_0.v|../../../../ad9361_rx_tx_top.gen/sources_1/ip/clk_wiz_0_4/clk_wiz_0_clk_wiz.v|../../../../../rtl/ad9361_test_top.v|../../../../../rtl/ad9361_spi.v|../../../../../rtl/ad9361_init.v|../../../../../rtl/ad9361_dev_if .v|
+Z14 !s90 -incr|-work|xil_defaultlib|+incdir+../../../../ad9361_rx_tx_top.gen/sources_1/ip/clk_wiz_0_4|../../../../../rtl/ad9361_dev_if .v|../../../../../rtl/ad9361_init.v|../../../../../rtl/ad9361_spi.v|../../../../../rtl/ad9361_test_top.v|../../../../ad9361_rx_tx_top.gen/sources_1/ip/clk_wiz_0_4/clk_wiz_0_clk_wiz.v|../../../../ad9361_rx_tx_top.gen/sources_1/ip/clk_wiz_0_4/clk_wiz_0.v|../../../../../rtl/ad9361_lu.v|../../../../../rtl/tb_ad9361_work.v|
+!i113 0
+R9
+R10
+R1
+vad9361_lu
+R11
+!i10b 1
+!s100 LBX:^B8MQAUbk1]^3UhOn2
+R3
+I2C8207=[m2HWM[T?oLaFN2
+R0
+w1731399808
+8../../../../../rtl/ad9361_lu.v
+F../../../../../rtl/ad9361_lu.v
+!i122 3
+L0 6 2681
+R4
+R5
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R9
+R10
+R1
+vad9361_spi
+!s10a 1731377002
+R2
+!i10b 1
+!s100 DF=Z46C]lQSL0WC64MdC23
+R3
+IX43fMA]:WlU3IEK4bXYAY3
+R0
+w1731377002
+8../../../../../rtl/ad9361_spi.v
+F../../../../../rtl/ad9361_spi.v
+!i122 2
+L0 1 93
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R1
+vad9361_test_top
+R11
+!i10b 1
+!s100 nc9j]<V9iUl>=WLR85UEX0
+R3
+IdS@[2M_ZQ0nUUZ6[@k]Sk0
+R0
+w1731400023
+8../../../../../rtl/ad9361_test_top.v
+F../../../../../rtl/ad9361_test_top.v
+!i122 3
+L0 1 211
+R4
+R5
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R9
+R10
+R1
+vad9361_test_top_tb
+R2
+!i10b 1
+!s100 joT?3AQFG?<EicoBN_IHU3
+R3
+IO<c:<kz5l[a_4LIf471P[3
+R0
+w1731396250
+Z15 8../../../../../rtl/tb_ad9361_work.v
+Z16 F../../../../../rtl/tb_ad9361_work.v
+!i122 2
+L0 2 100
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R1
+vclk_wiz_0
+Z17 !s10a 1731390514
+R2
+!i10b 1
+!s100 [^`l>``6mMST[`ZjeB;>C0
+R3
+IJH1I5>V]XMCQMLXPH;hha3
+R0
+Z18 w1731390514
+8../../../../ad9361_rx_tx_top.gen/sources_1/ip/clk_wiz_0_4/clk_wiz_0.v
+F../../../../ad9361_rx_tx_top.gen/sources_1/ip/clk_wiz_0_4/clk_wiz_0.v
+!i122 2
+L0 71 19
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R1
+vclk_wiz_0_clk_wiz
+R17
+R2
+!i10b 1
+!s100 <NVO3P<D<z^lki;hc^]j`2
+R3
+IZA7@J;_R:_agQXFcgz=;<0
+R0
+R18
+8../../../../ad9361_rx_tx_top.gen/sources_1/ip/clk_wiz_0_4/clk_wiz_0_clk_wiz.v
+F../../../../ad9361_rx_tx_top.gen/sources_1/ip/clk_wiz_0_4/clk_wiz_0_clk_wiz.v
+!i122 2
+L0 69 139
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R1
+vglbl
+R11
+!i10b 1
+!s100 ZHmTNm_h3dd`6mIQLzSUN3
+R3
+IJT>_:<WW6a7KP^k3<8E3=1
+R0
+w1605673889
+8glbl.v
+Fglbl.v
+!i122 4
+L0 6 78
+R4
+R5
+r1
+!s85 0
+31
+!s108 1731400768.000000
+!s107 glbl.v|
+!s90 -work|xil_defaultlib|glbl.v|
+!i113 0
+R9
+R1
+vila_0
+!s10a 1730987065
+!s110 1731027356
+!i10b 1
+!s100 >KmLZ?>REiY`Ez_;gKoXe3
+R3
+IW[=h7<OScM=RMoW7?SjRP2
+R0
+w1730987065
+8../../../../ad9361_rx_tx_top.gen/sources_1/ip/ila_0_4/sim/ila_0.v
+F../../../../ad9361_rx_tx_top.gen/sources_1/ip/ila_0_4/sim/ila_0.v
+!i122 0
+L0 49 20
+R4
+R5
+r1
+!s85 0
+31
+!s108 1731027356.000000
+!s107 C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_lut.v|../../../../../sim/tb_ad9361_test.v|../../../../ad9361_rx_tx_top.gen/sources_1/ip/ila_0_4/sim/ila_0.v|../../../../../rtl/ad9361_test_top.v|../../../../../rtl/ad9361_spi.v|../../../../../rtl/ad9361_init.v|../../../../../rtl/ad9361_lut.v|../../../../../rtl/ad9361_dev_if .v|
+!s90 -incr|-work|xil_defaultlib|../../../../../rtl/ad9361_dev_if .v|../../../../../rtl/ad9361_lut.v|../../../../../rtl/ad9361_init.v|../../../../../rtl/ad9361_spi.v|../../../../../rtl/ad9361_test_top.v|../../../../ad9361_rx_tx_top.gen/sources_1/ip/ila_0_4/sim/ila_0.v|../../../../../sim/tb_ad9361_test.v|
+!i113 0
+R9
+R1
+vtb_ad9361_work
+R11
+!i10b 1
+!s100 6>N4JBL1B:f@SK2UzRWLn1
+R3
+I?knUHG9[i@k8hDhkY=_La3
+R0
+w1731400730
+R15
+R16
+!i122 3
+L0 2 189
+R4
+R5
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R9
+R10
+R1

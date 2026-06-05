@@ -1,0 +1,5 @@
+xpm_cdc.sv,systemverilog,xpm,D:/Vivado/Vivado/2020.2/data/ip/xpm/xpm_cdc/hdl/xpm_cdc.sv,incdir="../../../../ad9361_rx_tx_top.gen/sources_1/ip/ila_0_6/hdl/verilog"
+xpm_memory.sv,systemverilog,xpm,D:/Vivado/Vivado/2020.2/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv,incdir="../../../../ad9361_rx_tx_top.gen/sources_1/ip/ila_0_6/hdl/verilog"
+xpm_VCOMP.vhd,vhdl,xpm,D:/Vivado/Vivado/2020.2/data/ip/xpm/xpm_VCOMP.vhd,incdir="../../../../ad9361_rx_tx_top.gen/sources_1/ip/ila_0_6/hdl/verilog"
+ila_0.v,verilog,xil_defaultlib,../../../../ad9361_rx_tx_top.gen/sources_1/ip/ila_0_6/sim/ila_0.v,incdir="../../../../ad9361_rx_tx_top.gen/sources_1/ip/ila_0_6/hdl/verilog"
+glbl.v,Verilog,xil_defaultlib,glbl.v

@@ -1,0 +1,204 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/sim
+T_opt
+!s110 1731656792
+VO[N4d[;fP1ZEdgS7QL_cA2
+04 14 4 work tb_ad9361_test fast 0
+=1-40b0760a5b94-6736fc56-ac-6378
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+vad9361_dev_if
+!s110 1731027044
+!i10b 1
+!s100 I=FVAd:XF8BUWHVi<9ie11
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Id0l?dFXbg5KfNToM__DEi1
+R0
+w1730978216
+8C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_dev_if .v
+FC:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_dev_if .v
+!i122 1
+L0 1 305
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OL;L;2020.4;71
+r1
+!s85 0
+31
+!s108 1731027044.000000
+!s107 C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_dev_if .v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_dev_if .v|
+!i113 0
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vad9361_init
+Z6 !s110 1731656755
+!i10b 1
+!s100 iUNLmcB[8i]h`W6P1cj4d3
+R2
+IQf=>5bGm4nM^3`AQ14?VH1
+R0
+w1731590703
+8C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_init.v
+FC:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_init.v
+!i122 151
+L0 1 220
+R3
+R4
+r1
+!s85 0
+31
+Z7 !s108 1731656755.000000
+!s107 C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_init.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_init.v|
+!i113 0
+R5
+R1
+vad9361_lu
+!s110 1731398257
+!i10b 1
+!s100 ]EXcD5X=JoGAKC6Q:^>_Y2
+R2
+I>Dn?OVaTg?boeB`^<X5?M2
+R0
+w1731398144
+8C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_lu.v
+FC:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_lu.v
+!i122 110
+L0 6 2681
+R3
+R4
+r1
+!s85 0
+31
+!s108 1731398257.000000
+!s107 C:\Users\ASUS\Desktop\SDR\ad9361_rx_tx_test\rtl\axi_bfm_s_defines.v|C:\Users\ASUS\Desktop\SDR\ad9361_rx_tx_test\rtl\axi_bfm_defines.v|C:\Users\ASUS\Desktop\SDR\ad9361_rx_tx_test\rtl\zynq_bfm_defines.v|C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_lu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_lu.v|
+!i113 0
+R5
+R1
+vad9361_lut
+!s110 1731656756
+!i10b 1
+!s100 =U693iEYXXCW@A<LOdW>?1
+R2
+I3HEWd?mjGd42f:n=mmIl41
+R0
+w1731634234
+8C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_lut.v
+FC:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_lut.v
+!i122 153
+L0 1 2688
+R3
+R4
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_lut.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_lut.v|
+!i113 0
+R5
+R1
+vad9361_spi
+R6
+!i10b 1
+!s100 eM=S[aLdjVAgEQkMV:?O`3
+R2
+ID<4F6d^hB]Po[hXYBF;^Y2
+R0
+w1731631995
+8C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_spi.v
+FC:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_spi.v
+!i122 152
+L0 1 97
+R3
+R4
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_spi.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_spi.v|
+!i113 0
+R5
+R1
+vad9361_test_top
+!s110 1731027045
+!i10b 1
+!s100 A=0m<2E@]=j49GZR8?aii1
+R2
+I=Bo`LnTXj1DBi?S1[aHje2
+R0
+w1730987866
+8C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_test_top.v
+FC:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_test_top.v
+!i122 4
+L0 1 266
+R3
+R4
+r1
+!s85 0
+31
+!s108 1731027045.000000
+!s107 C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_test_top.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/rtl/ad9361_test_top.v|
+!i113 0
+R5
+R1
+vad9361_test_top_tb
+!s110 1731041242
+!i10b 1
+!s100 SUZ@FP9MCIFEkLiY0zJVa3
+R2
+IZzzagkFK1^1OigKX;BhRC3
+R0
+w1731041206
+Z8 8C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/sim/tb_ad9361_test.v
+Z9 FC:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/sim/tb_ad9361_test.v
+!i122 5
+L0 2 60
+R3
+R4
+r1
+!s85 0
+31
+!s108 1731041241.000000
+Z10 !s107 C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/sim/tb_ad9361_test.v|
+Z11 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/ASUS/Desktop/SDR/ad9361_rx_tx_test/sim/tb_ad9361_test.v|
+!i113 0
+R5
+R1
+vtb_ad9361_test
+R6
+!i10b 1
+!s100 J:F0cbc6ZBiRh]XDX]9652
+R2
+IciX5O4dC:nJKzJGbc[f@;1
+R0
+w1731570697
+R8
+R9
+!i122 150
+L0 2 73
+R3
+R4
+r1
+!s85 0
+31
+!s108 1731656754.000000
+R10
+R11
+!i113 0
+R5
+R1

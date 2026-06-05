@@ -1,0 +1,2 @@
+ila_0.v,verilog,xil_defaultlib,../../../../ad9361_rx_tx_top.gen/sources_1/ip/ila_0_12/sim/ila_0.v,incdir="../../../../ad9361_rx_tx_top.gen/sources_1/ip/ila_0_12/hdl/verilog"
+glbl.v,Verilog,xil_defaultlib,glbl.v
